@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# 
+build*/
+test/
+.cache/
+*.swp
+*.bin
+.vscode/settings.json
+
+browse.out-*
